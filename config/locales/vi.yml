@@ -1,0 +1,40 @@
+vi:
+  base_title: "Hướng dẫn Ruby on Rails ứng dụng mẫu"
+  static_pages:
+    home:
+      home: "Trang chủ"
+      title: "Chào mừng đến với Sample App"
+      des_html: <h2>
+                  Đây là trang chủ của
+                  <a href="https://www.railstutorial.org/">Hướng dẫn Ruby on Rails</a>
+                  ứng dụng mẫu.
+                </h2>
+      signup: Đăng kí ngay!
+    help:
+      help: "Giúp đỡ"
+      title: "Giúp đỡ"
+      des_html: <p>
+                  Cần giúp đỡ trong Sample App, hãy xem
+                  <a href="http://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em> sách</a>.
+                </p>
+    contact:
+      contact: "Liên hệ"
+      title: "Liên hệ"
+      des_html: <p>
+                  Liên hệ về Ruby on Rails Tutorial Sample app trên
+                  <a href="https://www.railstutorial.org/contact">trang liên hệ</a>.
+                </p>
+  layouts:
+    header:
+      logo: "SAMPLE APP"
+      home: "Trang chủ"
+      help: "Giúp đỡ"
+      login: "Đăng nhập"
+    footer:
+      des_html: <small>
+                  <a href="https://www.railstutorial.org/">Ruby on Rails hướng dẫn</a>
+                  bởi <a href="https://www.michaelhartl.com/">Michael Hartl</a>
+                </small>
+      about: "Vấn đề"
+      contact: "Liên hệ"
+      news: "Tin tức"
